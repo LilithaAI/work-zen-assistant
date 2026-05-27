@@ -29,7 +29,7 @@ function Dashboard() {
         </div>
         <p className="text-xs font-medium uppercase tracking-wider text-primary">Workplace AI</p>
         <h1 className="mt-2 text-3xl font-semibold tracking-tight md:text-4xl">
-          Automate the busywork. Focus on the work that matters.
+          Lilitha Mfupi
         </h1>
         <p className="mt-3 max-w-2xl text-sm text-muted-foreground md:text-base">
           Five AI-powered tools to help you write, summarize, plan, research, and think — all in one
